@@ -1,34 +1,63 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student in Computer Engineering at <a href='https://www.umd.edu/'>University of Maryland, College Park</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div style="text-align: center;width: 300px;">
+      <p>jyin629@umd.edu</p>
+      <p>University of Maryland</p>
+      <p>College Park, MD 20742</p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true # includes a list of news items
+latest_posts: false # 如果你不写博客，可以设为false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Computer Engineering at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research focuses on **Electronic Design Automation (EDA)**, with particular interests in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- **Logic Synthesis** and **Formal Verification**
+- **High-Level Synthesis** and scheduling algorithms
+- **Combinatorial Optimization** for hardware design
+- **Equality Saturation** techniques for circuit optimization
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Highlights
+
+My recent work explores the intersection of traditional EDA algorithms. I have developed several frameworks including:
+- **BoolE**: Symbolic reasoning via Boolean equality saturation (DAC 2025, **Best Paper Nomination**)
+- **RESPECT**: Reinforcement learning-based scheduling for edge TPUs (DAC 2023)
+- **HEC**: Equivalence verification for code transformation (USENIX ATC 2025)
+
+## Education
+
+**PhD in Computer Engineering**
+University of Maryland, College Park  
+Advisor: Prof. Cunxi Yu
+
+**MS in Electrical and Computer Engineering**
+The Ohio State University
+
+**BS in Communication Engineering**
+Harbin Engineering University
+
+## Experience
+
+**Cadence Design Systems** - Graduate Intern (May 2025 - August 2025)  
+Worked on Genus Development team
+
+**Pacific Northwest National Laboratory** - Graduate Intern (June 2023 - August 2023)  
+Contributed to SODA-OPT Optimization project for MLIR system design tools
+
+## Awards
+
+- **Best Paper Nomination**, Design Automation Conference (DAC 2025)
+- **ICCAD Student Scholar Program Travel Grant** (2024)
+- **NSF Student Travel Grant**, IEEE/ACM Symposium on Edge Computing (2022)

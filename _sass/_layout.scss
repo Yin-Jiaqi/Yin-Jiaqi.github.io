@@ -34,7 +34,14 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
-    width: 100%;
+    width: 150%;
+    max-width: 300px;
+    min-width: 150px;
+    height: auto;
+    
+    @media (max-width: 768px) {  // 直接使用像素值
+      max-width: 200px;
+    }
   }
 }
 

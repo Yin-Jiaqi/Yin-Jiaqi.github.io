@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"DAC":
+  url: https://www.dac.com/
+  color: "#6a1b9a"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICCAD":
+  url: https://iccad.com/
+  color: "#1565c0"
 
-"Vision":
-  color: "#009f36"
+"USENIX ATC":
+  url: https://www.usenix.org/conferences/byname/131
+  color: "#00838f"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#10B981"
+
+"SEC":
+  url: https://icml.cc/
+  color: "#EC4899"
+
+"FCCM":
+  url: https://icml.cc/
+  color: "#DC2626"
