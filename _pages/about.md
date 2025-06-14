@@ -32,6 +32,7 @@ I am a PhD student in Computer Engineering at the University of Maryland, Colleg
 ## Research Highlights
 
 My recent work explores the intersection of traditional EDA algorithms. I have developed several frameworks including:
+
 - **BoolE**: Symbolic reasoning via Boolean equality saturation (DAC 2025, **Best Paper Nomination**)
 - **RESPECT**: Reinforcement learning-based scheduling for edge TPUs (DAC 2023)
 - **HEC**: Equivalence verification for code transformation (USENIX ATC 2025)

@@ -42,13 +42,14 @@ _June 2023 - August 2023_
 ## Teaching Experience
 
 **University of Utah**
+
 - Fall 2022: ECE/CS 3700 - Digital System Design
 - Fall 2021: ECE/CS 3700 - Digital System Design
 
 ## Research Interests
 
 - Electronic Design Automation
-- Logic Synthesis  
+- Logic Synthesis
 - Formal Verification
 - Physical Design
 - Combinatorial Optimization

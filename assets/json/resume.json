@@ -133,11 +133,7 @@
       "name": "Programming Languages",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "Rust"
-      ]
+      "keywords": ["Python", "C/C++", "Rust"]
     },
     {
       "name": "Research Areas",
@@ -157,33 +153,19 @@
       "name": "Tools & Technologies",
       "level": "Advanced",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "MLIR",
-        "Reinforcement Learning",
-        "Linux",
-        "Git"
-      ]
+      "keywords": ["MLIR", "Reinforcement Learning", "Linux", "Git"]
     }
   ],
   "interests": [
     {
       "name": "Electronic Design Automation",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Logic Synthesis",
-        "Formal Verification",
-        "Physical Design",
-        "High-Level Synthesis"
-      ]
+      "keywords": ["Logic Synthesis", "Formal Verification", "Physical Design", "High-Level Synthesis"]
     },
     {
       "name": "Machine Learning for EDA",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Reinforcement Learning",
-        "Combinatorial Optimization",
-        "Graph Neural Networks"
-      ]
+      "keywords": ["Reinforcement Learning", "Combinatorial Optimization", "Graph Neural Networks"]
     }
   ],
   "teaching": [
@@ -208,7 +190,7 @@
       "highlights": []
     }
   ],
-"projects": [
+  "projects": [
     {
       "name": "BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation",
       "summary": "Exact symbolic reasoning framework for Boolean netlists using equality saturation. Reconstruct full adders in technology-mapped CSA multipliers×.",

@@ -4,7 +4,7 @@
 
 title: Jiaqi Yin # the website title (if blank, full name will be used instead)
 first_name: Jiaqi
-middle_name: 
+middle_name:
 last_name: Yin
 contact_note: >
   jyin629@umd.edu
@@ -27,7 +27,6 @@ back_to_top: true # set to false to disable the back to top button
 
 github_username: yin-jiaqi # your GitHub user name
 scholar_userid: Jod5WP0AAAAJ # your Google Scholar ID
-
 
 # -----------------------------------------------------------------------------
 # Theme
