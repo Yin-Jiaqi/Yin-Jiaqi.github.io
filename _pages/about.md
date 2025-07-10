@@ -33,7 +33,6 @@ I am a PhD student in Computer Engineering at the University of Maryland, Colleg
 - **Combinatorial Optimization** for hardware design
 - **Equality Saturation** techniques for circuit optimization
 
-
 ## Research Highlights
 
 My recent work explores the intersection of traditional EDA algorithms. I have developed several frameworks including:
