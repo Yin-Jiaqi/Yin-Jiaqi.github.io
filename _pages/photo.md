@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /gallery/
 title: Gallery
@@ -41,4 +41,4 @@ description: Life snapshots and memorable moments
     </div>
     <!-- 继续添加更多照片 -->
   </div>
-</div>
+</div> -->

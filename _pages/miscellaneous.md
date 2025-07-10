@@ -19,4 +19,6 @@ nav_order: 5
 **Conference Reviewer**
 
 - IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+
+**TPC Member**
 - ACM/IEEE Workshop on Machine Learning for CAD (MLCAD)

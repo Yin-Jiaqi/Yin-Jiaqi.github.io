@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: cv
 permalink: /cv/
 title: CV
@@ -52,4 +52,4 @@ _June 2023 - August 2023_
 - Logic Synthesis
 - Formal Verification
 - Physical Design
-- Combinatorial Optimization
+- Combinatorial Optimization -->

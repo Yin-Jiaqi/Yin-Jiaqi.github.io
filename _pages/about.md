@@ -22,6 +22,10 @@ news: true # includes a list of news items
 latest_posts: false # 如果你不写博客，可以设为false
 ---
 
+<a href="https://drive.google.com/file/d/1ZTxKDUk88pqN1rDWdJG6HE3PKo9k5mRd/view?usp=sharing" target="_blank" class="btn btn-sm btn-light border">
+  <i class="fas fa-file-pdf text-danger"></i> CV
+</a>
+
 I am a PhD student in Computer Engineering at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research focuses on **Electronic Design Automation (EDA)**, with particular interests in:
 
 - **Logic Synthesis** and **Formal Verification**
@@ -29,11 +33,13 @@ I am a PhD student in Computer Engineering at the University of Maryland, Colleg
 - **Combinatorial Optimization** for hardware design
 - **Equality Saturation** techniques for circuit optimization
 
+
 ## Research Highlights
 
 My recent work explores the intersection of traditional EDA algorithms. I have developed several frameworks including:
 
 - **BoolE**: Symbolic reasoning via Boolean equality saturation (DAC 2025, **Best Paper Nomination**)
+- **e-boost**: e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving (ICCAD 2025)
 - **RESPECT**: Reinforcement learning-based scheduling for edge TPUs (DAC 2023)
 - **HEC**: Equivalence verification for code transformation (USENIX ATC 2025)
 
